@@ -1,0 +1,32 @@
+body {
+    background-color: #FF5733;
+    font-family: Arial;
+    text-align: center;
+    
+    
+    
+  }
+  
+  .wrapper, .buttons {
+    margin: 0 auto;
+    width: 70%;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+  }
+  
+  .wrapper {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  
+  .timeStamp {
+    margin: 0 auto;
+    width: 70%;
+    font-size: 20px;
+    color: grey;
+  }
